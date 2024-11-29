@@ -11,7 +11,7 @@ Python Version = 3.6 < 3.9
 - auto save to text file 
 - high speed to generated
 
-exclusive by Mmdrza.Com
+
 
 #### First Install Package's:
 ```
