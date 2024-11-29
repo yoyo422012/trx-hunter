@@ -36,14 +36,8 @@ python trxOnvps.py
 python trxCheck.py
 
 ```
+
 After:
-```
-python3 trxOnvps.py
-or
-python trxOnvps.py
-
-```
-
 ```
 python3 trxOnline.py
 
