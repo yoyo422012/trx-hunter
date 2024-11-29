@@ -33,15 +33,12 @@ python trxCheck.py
 
 
 ```
-For Created Address And Private key Tron and Save All Information On the txt File, Run This Common On the console :[This File](https://github.com/Pymmdrza/tronFullPro/blob/main/trxOnvps.py)
 ```
 python3 trxOnvps.py
 or
 python trxOnvps.py
 
 ```
-
-For created Address and private key without saveing On File . and Check value address (WithOut API) & save private key address if value or transaction > 0: [This File](https://github.com/Pymmdrza/tronFullPro/main/trxOnline.py)
 
 ```
 python3 trxOnline.py
@@ -53,7 +50,6 @@ python trxOnline.py
 ```
 ![Tron Address And Private key Generator](https://github.com/Pymmdrza/tronFullPro/blob/main/Screenshot%202022-01-20%20075638.jpg "Tron Address And Private key Generator")
 
-View More Detail Follow [This Link](https://mmdrza.com/tron-address-and-privatekey-generator-hack-source/)
 
 
 --------------------------------------------------------------------------------------------
