@@ -31,7 +31,6 @@ python3 trxCheck.py
 # from windows(CMD)
 python trxCheck.py
 
-
 ```
 ```
 python3 trxOnvps.py
@@ -44,16 +43,9 @@ python trxOnvps.py
 python3 trxOnline.py
 
 or 
-
 python trxOnline.py
 
 ```
-![Tron Address And Private key Generator](https://github.com/Pymmdrza/tronFullPro/blob/main/Screenshot%202022-01-20%20075638.jpg "Tron Address And Private key Generator")
-
-
 
 --------------------------------------------------------------------------------------------
-For Tips or Donate (Bitcoin Address): 
-```
-16p9y6EstGYcnofGNvUJMEGKiAWhAr1uR8
-```
+
