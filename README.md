@@ -24,14 +24,19 @@ pip install pycryptodome==3.4.3
 ```
 
 #### After Installing Package's For Run , Can Use This Common On CMD or Terminal :
+
+first run:
 ```
 #From Debian
+python3 trxOnvps.py
 python3 trxCheck.py 
 
 # from windows(CMD)
+python trxOnvps.py
 python trxCheck.py
 
 ```
+After:
 ```
 python3 trxOnvps.py
 or
